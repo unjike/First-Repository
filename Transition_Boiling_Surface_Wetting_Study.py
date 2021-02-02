@@ -105,7 +105,7 @@ DF=pd.concat(Data, ignore_index=True, )
 
     # >>>>> ProtoGeneticSImBcurve_toUrsan -  HIGH SUPERHEAT
     #V.P. Carey 9/15/20
-    #U. Tchouteng Njike 01/05/2020
+    #U. Tchouteng Njike 01/05/2021
 
     #import math and numpy packages
 import math
